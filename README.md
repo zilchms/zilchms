@@ -6,6 +6,7 @@ I'm currently working for the University of Stuttgart
 
 I am working on:
   - automation with Puppet
-  - deploying a Kubernetes Cluster
+  - Monitoring
+  - deploying Kubernetes Clusters
   - rolling out Jupyterhub and Matrix.
   - other minor stuff, whatever needs doing ...
